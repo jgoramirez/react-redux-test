@@ -1,6 +1,6 @@
 const defaultState = [{
     id: 2, text: 'test',
-}]
+},]
 
 function reducer(state = defaultState, {type, payload}) {
     switch (type) {

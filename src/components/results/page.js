@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import CssBaseLine from '@material-ui/core/CssBaseline'
 import AppBar from '../appBar'
-import './styles.css'
+import './style.css'
 
 function Page(props) {
     return (

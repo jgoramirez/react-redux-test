@@ -3,7 +3,7 @@ import InputBase from '@material-ui/core/InputBase';
 import SearchIcon from '@material-ui/icons/Search';
 import Paper from '@material-ui/core/Paper';
 import MenuItem from '@material-ui/core/MenuItem';
-import './styles.css';
+import './style.css'
 
 class Autocomplete extends Component {
     constructor(props) {

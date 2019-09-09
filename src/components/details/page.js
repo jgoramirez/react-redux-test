@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import './styles.css'
+import './style.css'
 
 function Page(props) {
     return (
